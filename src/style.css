@@ -233,7 +233,7 @@ section#projetos{
 .projeto-card {
     display: grid;
     /* Coluna 1: Imagem | Coluna 2: Info | Coluna 3: Tags */
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 0.5fr 1fr 1fr;
     border-radius: 1rem;
     background-color: #ffffff;
     overflow: hidden;

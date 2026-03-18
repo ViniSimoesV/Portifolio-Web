@@ -17,6 +17,7 @@
 ## 📚 Índice
 - [Links Úteis](#-links-úteis)
 - [Sobre o Projeto](#-sobre-o-projeto)
+- [Captura de tela] 
 - [Funcionalidades Principais](#-funcionalidades-principais)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Arquitetura](#-arquitetura)
@@ -38,6 +39,14 @@
 ## 📝 Sobre o Projeto
 Este portfólio foi criado para ser uma apresentação minha, de meus projetos desenvolvidos e minhas competências, concentrando estas informações em um único espaço público e personalizado.
 Sendo um aluno de Engenharia de Software, apresento algumas das experiências que tive, fruto de trabalhos interdisciplinares e extensionistas, trabalhando com cliente real.
+
+---
+
+## 🖼️ Capturas de Tela
+
+| <img src="https://joaopauloaramuni.github.io/image/portfolio0.png" alt="Portfolio Home" width="600"/> | <img src="https://joaopauloaramuni.github.io/image/portfolio2.png" alt="Portfolio Ajuda" width="600"/> |
+|:----:|:-----:|
+| Home | Ajuda | 
 
 ---
 

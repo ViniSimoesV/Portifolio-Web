@@ -17,7 +17,7 @@
 ## 📚 Índice
 - [Links Úteis](#-links-úteis)
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Captura de tela] 
+- [Captura de tela](#-capturas-de-tela)
 - [Funcionalidades Principais](#-funcionalidades-principais)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Arquitetura](#-arquitetura)
@@ -44,9 +44,9 @@ Sendo um aluno de Engenharia de Software, apresento algumas das experiências qu
 
 ## 🖼️ Capturas de Tela
 
-| <img src="https://joaopauloaramuni.github.io/image/portfolio0.png" alt="Portfolio Home" width="600"/> | <img src="https://joaopauloaramuni.github.io/image/portfolio2.png" alt="Portfolio Ajuda" width="600"/> |
+| <img src="Wireframes/printHome.jpg" alt="Portfolio Home" width="600"/> | <img src="Wireframes/printExp.jpg" alt="Portfolio Experiências" width="600"/> |
 |:----:|:-----:|
-| Home | Ajuda | 
+| Home | Experiências | 
 
 ---
 
